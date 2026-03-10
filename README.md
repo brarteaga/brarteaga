@@ -84,7 +84,7 @@ Mi objetivo es contribuir a que la ciberseguridad deje de ser **“lo que hay qu
 
 ## ☕ Let's talk
 
-Si buscas a alguien que sabe lo que es una **inyección SQL** y que además puede redactar una **política de seguridad sin que nadie se duerma…**... aquí tienes cómo contactar conmigo:
+Si buscas a alguien que sabe lo que es una **inyección SQL** y que además puede redactar una **política de seguridad sin que nadie se duerma…** aquí tienes cómo contactar conmigo:
 
 💼 LinkedIn  
 https://www.linkedin.com/in/brarteaga  
