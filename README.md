@@ -52,13 +52,13 @@ Para seguir hablando con soltura con los sistemas.
 
 ## 🎯 Áreas de interés
 
-• Gobierno, Riesgo y Cumplimiento (GRC)
-• Cumplimiento normativo y regulatorio
-• Auditoría y Gestión de Riesgos
-• Protección de Datos y Privacidad (RGPD / LOPDGDD)
-• Gobernanza de la Inteligencia Artificial
-• Marcos y estándares de seguridad (ISO 27001, ENS, NIS2, DORA, AI Act y CRA)
-• Concienciación y Cultura de Ciberseguridad
+- Gobierno, Riesgo y Cumplimiento (GRC)
+- Cumplimiento normativo y regulatorio
+- Auditoría y Gestión de Riesgos
+- Protección de Datos y Privacidad (RGPD / LOPDGDD)
+- Gobernanza de la Inteligencia Artificial
+- Marcos y estándares de seguridad (ISO 27001, ENS, NIS2, DORA, AI Act y CRA)
+- Concienciación y Cultura de Ciberseguridad
 
 ---
 
