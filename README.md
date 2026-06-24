@@ -2,13 +2,6 @@
 
 🔐 Cybersecurity | Governance, Risk & Compliance (GRC) | Privacy & Data Protection | AI Governance | Regulatory Compliance
 
-![GRC](https://img.shields.io/badge/GRC-0052CC?style=for-the-badge)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-0066CC?style=for-the-badge)
-![ENS](https://img.shields.io/badge/ENS-Spain-red?style=for-the-badge)
-![Privacy](https://img.shields.io/badge/Privacy-GDPR-blue?style=for-the-badge)
-![Risk Management](https://img.shields.io/badge/Risk_Management-ISO_27005-orange?style=for-the-badge)
-![AI Governance](https://img.shields.io/badge/AI_Governance-EU_AI_Act-purple?style=for-the-badge)
-
 ![GRC](https://img.shields.io/badge/GRC-0A66C2?style=for-the-badge)
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-2E7D32?style=for-the-badge)
 ![ENS](https://img.shields.io/badge/ENS-FF6F00?style=for-the-badge)
@@ -93,10 +86,15 @@ Mi objetivo es contribuir a que la ciberseguridad deje de ser **“lo que hay qu
 
 ## ☕ Let's talk
 
-Si buscas a alguien que sabe lo que es una **inyección SQL** y que además puede redactar una **política de seguridad sin que nadie se duerma…** aquí tienes cómo contactar conmigo:
+## ☕ Let's talk
 
-💼 LinkedIn  
-https://www.linkedin.com/in/brarteaga  
+Si buscas a alguien capaz de moverse entre **tecnología, regulación y negocio**, analizar una **inyección SQL** y explicar el **RGPD** sin provocar bostezos colectivos, aquí tienes cómo encontrarme:
 
-📧 Email  
-begonarodriguezarteaga@gmail.com
+📄 **CV**
+https://github.com/brarteaga/brarteaga/raw/main/_CV_Bego%C3%B1a_Rodr%C3%ADguez_Arteaga_.pdf
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/brarteaga
+
+📧 **Email**
+[begonarodriguezarteaga@gmail.com](mailto:begonarodriguezarteaga@gmail.com)
