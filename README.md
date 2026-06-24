@@ -89,7 +89,7 @@ Mi objetivo es contribuir a que la ciberseguridad deje de ser **“lo que hay qu
 Si buscas a alguien capaz de moverse entre **tecnología, regulación y negocio**, analizar una **inyección SQL** y explicar el **RGPD** sin provocar bostezos colectivos, aquí tienes cómo encontrarme:
 
 📄 **CV**
-[Descargar CV en PDF](https://github.com/brarteaga/brarteaga/raw/main/_CV_Bego%C3%B1a_Rodr%C3%ADguez_Arteaga_.pdf)
+[Descargar CV](https://github.com/brarteaga/brarteaga/raw/main/_CV_Bego%C3%B1a_Rodr%C3%ADguez_Arteaga_.pdf)
 
 💼 **LinkedIn**
 https://www.linkedin.com/in/brarteaga
