@@ -23,7 +23,7 @@
 
 Si me lo hubieran preguntado hace unos años, parecería el argumento de una serie de Netflix. Pero aquí estamos… uniendo los puntos.
 
-Tras **7 años trabajando en Comunicación e Investigación Social**, analizando cómo piensa la gente y cómo toma decisiones, descubrí algo importante: si descuidas el **factor humano**, la seguridad es papel mojado.
+Tras **7 años trabajando en Comunicación, Marketing e Investigación Social**, analizando cómo piensa la gente y cómo toma decisiones, descubrí algo importante: si descuidas el **factor humano**, la seguridad es papel mojado.
 
 Por eso decidí dar el salto al **Bootcamp de Ciberseguridad de The Bridge**, para entender cómo funcionan realmente los sistemas y aprender a **romper las cosas desde dentro para poder protegerlas mejor**.
 
@@ -40,7 +40,10 @@ Soy una especie de *Duolingo universal*, capaz de explicar el RGPD a un develope
 
 ## 🎓 Formación actual
 
-Actualmente estoy en lo que llamo mi **triatlón del cumplimiento**:
+Actualmente estoy en lo que llamo mi **triatlón de la formación y del cumplimiento**:
+
+🔒 **Máster Universitario en Ciberseguridad y Privacidad** — Universitat Oberta de Catalunya (UOC) *(Inicio: septiembre 2026)*
+Para aprender qué puede salir mal antes de que salga mal y asegurarse de tener respuestas en la recámara cuando llegue el momento.
 
 🎓 **Máster Experto en Derecho Digital** — Universidad de Deusto  
 Para que las leyes tecnológicas no tengan secretos.
