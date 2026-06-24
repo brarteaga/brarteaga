@@ -10,11 +10,11 @@
 ![AI Governance](https://img.shields.io/badge/AI_Governance-EU_AI_Act-purple?style=for-the-badge)
 
 ![GRC](https://img.shields.io/badge/GRC-0A66C2?style=for-the-badge)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-0066CC?style=for-the-badge)
-![ENS](https://img.shields.io/badge/ENS-C62828?style=for-the-badge)
-![RGPD](https://img.shields.io/badge/RGPD-1565C0?style=for-the-badge)
-![AI Governance](https://img.shields.io/badge/AI_Governance-7B1FA2?style=for-the-badge)
-![Cybersecurity Awareness](https://img.shields.io/badge/Cybersecurity_Awareness-00897B?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-2E7D32?style=for-the-badge)
+![ENS](https://img.shields.io/badge/ENS-FF6F00?style=for-the-badge)
+![RGPD](https://img.shields.io/badge/RGPD-C62828?style=for-the-badge)
+![AI Governance](https://img.shields.io/badge/AI_Governance-6A1B9A?style=for-the-badge)
+![Cybersecurity Awareness](https://img.shields.io/badge/Cybersecurity_Awareness-37474F?style=for-the-badge)
 
 ---
 
