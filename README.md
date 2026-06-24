@@ -9,11 +9,12 @@
 ![Risk Management](https://img.shields.io/badge/Risk_Management-ISO_27005-orange?style=for-the-badge)
 ![AI Governance](https://img.shields.io/badge/AI_Governance-EU_AI_Act-purple?style=for-the-badge)
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Professional-blue)
-![GRC](https://img.shields.io/badge/GRC-Governance%20Risk%20Compliance-green)
-![ISO27001](https://img.shields.io/badge/ISO-27001-orange)
-![ENS](https://img.shields.io/badge/ENS-Compliance-red)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-lightgrey)
+![GRC](https://img.shields.io/badge/GRC-0A66C2?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0066CC?style=for-the-badge)
+![ENS](https://img.shields.io/badge/ENS-C62828?style=for-the-badge)
+![RGPD](https://img.shields.io/badge/RGPD-1565C0?style=for-the-badge)
+![AI Governance](https://img.shields.io/badge/AI_Governance-7B1FA2?style=for-the-badge)
+![Cybersecurity Awareness](https://img.shields.io/badge/Cybersecurity_Awareness-00897B?style=for-the-badge)
 
 ---
 
@@ -58,15 +59,13 @@ Para seguir hablando con soltura con los sistemas.
 
 ## 🎯 Áreas de interés
 
-- Cybersecurity Compliance  
-- Regulatory Compliance  
-- Governance, Risk & Compliance (GRC)  
-- Gestión de riesgos en ciberseguridad (ISO 27005)  
-- Auditoría de seguridad (ISO 27001 / ENS)  
-- Cumplimiento normativo y protección de datos  
-- Vulnerability assessment  
-- Malware analysis  
-- Ética e Inteligencia Artificial  
+• Gobierno, Riesgo y Cumplimiento (GRC)
+• Cumplimiento normativo y regulatorio
+• Auditoría y Gestión de Riesgos
+• Protección de Datos y Privacidad (RGPD / LOPDGDD)
+• Gobernanza de la Inteligencia Artificial
+• Marcos y estándares de seguridad (ISO 27001, ENS, NIS2, DORA, AI Act y CRA)
+• Concienciación y Cultura de Ciberseguridad
 
 ---
 
