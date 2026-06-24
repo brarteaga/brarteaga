@@ -42,7 +42,7 @@ Soy una especie de *Duolingo universal*, capaz de explicar el RGPD a un develope
 
 Actualmente estoy en lo que llamo mi **triatlón de la formación y del cumplimiento**:
 
-🔒 **Máster Universitario en Ciberseguridad y Privacidad** — Universitat Oberta de Catalunya (UOC) *(Inicio: septiembre 2026)*
+🔒 **Máster Universitario en Ciberseguridad y Privacidad** — Universitat Oberta de Catalunya (UOC) *(Inicio: septiembre 2026)*  
 Para aprender qué puede salir mal antes de que salga mal y asegurarse de tener respuestas en la recámara cuando llegue el momento.
 
 🎓 **Máster Experto en Derecho Digital** — Universidad de Deusto  
