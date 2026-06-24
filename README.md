@@ -1,6 +1,13 @@
 # 👋 Hola, soy Begoña Rodríguez Arteaga
 
-🔐 Cybersecurity | Governance, Risk & Compliance (GRC) | Cybersecurity Compliance
+🔐 Cybersecurity | Governance, Risk & Compliance (GRC) | Privacy & Data Protection | AI Governance | Regulatory Compliance
+
+![GRC](https://img.shields.io/badge/GRC-0052CC?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0066CC?style=for-the-badge)
+![ENS](https://img.shields.io/badge/ENS-Spain-red?style=for-the-badge)
+![Privacy](https://img.shields.io/badge/Privacy-GDPR-blue?style=for-the-badge)
+![Risk Management](https://img.shields.io/badge/Risk_Management-ISO_27005-orange?style=for-the-badge)
+![AI Governance](https://img.shields.io/badge/AI_Governance-EU_AI_Act-purple?style=for-the-badge)
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Professional-blue)
 ![GRC](https://img.shields.io/badge/GRC-Governance%20Risk%20Compliance-green)
